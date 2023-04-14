@@ -15,7 +15,7 @@
 
     <properties>
         <log4j.version>2.17.2</log4j.version>
-        <json.version>20140107</json.version>
+        <json.version>20230227</json.version>
         <jersey.version>2.6</jersey.version>
         <junit.version>4.13.1</junit.version>
         <jackson.annotations.version>2.6.4</jackson.annotations.version>
